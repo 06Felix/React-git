@@ -1,0 +1,47 @@
+h1{
+    color: crimson;
+}
+.bttn{
+    width: 100px;
+    height: 35px;
+    background-color: rgb(159, 118, 159);
+    align-self: center;
+}
+.box{
+    width: 35%;
+    height: 100%;
+    margin-left: 450px;
+    box-shadow: 2.8px 2.8px 2.2px rgba(0, 0, 0, 0.101), 6.7px 6.7px 5.3px rgba(0, 0, 0, 0.145), 12.5px 12.5px 10px rgba(0, 0, 0, 0.18),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.215), 41.8px 41.8px 33.4px rgba(0, 0, 0, 0.259), 100px 100px 80px rgba(0, 0, 0, 0.36);
+}
+.inp{
+    background-color: #fcccdb;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 40px;
+    width: 220px;
+}
+.form{
+    margin-top: 160px;
+    background-color: #626fea;
+    border-radius: 10px;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    box-shadow: 2.8px 2.8px 2.2px rgba(0, 0, 0, 0.101), 6.7px 6.7px 5.3px rgba(0, 0, 0, 0.145), 12.5px 12.5px 10px rgba(0, 0, 0, 0.18),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.215), 41.8px 41.8px 33.4px rgba(0, 0, 0, 0.259), 100px 100px 80px rgba(0, 0, 0, 0.36);
+}
+.lbl{
+    color: rgb(85, 13, 152);
+}
+body{
+    justify-content: center;
+    align-items: center;
+    background: #C33764;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1D2671, #C33764);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1D2671, #C33764); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+,     Opera 12+, Safari 7+ */
+    align-content: center;
+}
